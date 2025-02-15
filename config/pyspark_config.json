@@ -1,0 +1,5 @@
+{
+    "python_version" : "3.11",
+    "output_file_path" : "/Users/chaitanyavarmamudundi/Desktop/workspace/ollama_project/code/pyspark.py",
+    "program_prompt" : "in python: write pyspark program that reads csv file and converts it to pyspark dataframe"
+}   
