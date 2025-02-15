@@ -1,7 +1,8 @@
 https://www.gpu-mart.com/blog/custom-llm-models-with-ollama-modelfile
 
-ollama create python_model --file "/Users/chaitanyavarmamudundi/Desktop/workspace/ollama project/modelfile/python_model.modelfile"
 --------------
+
+ollama create python_model --file "/Users/chaitanyavarmamudundi/Desktop/workspace/ollama project/modelfile/python_model.modelfile"
 
 prompts examples:
 
@@ -90,4 +91,4 @@ ELT -
 
 Extraction agent - csv,jso, tsv ->parquet
 
-load - parquet -> send to table
+load - parquet -> send to table# ollama-project
